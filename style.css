@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    background-color: rgb(71, 71, 112);
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+main{
+    height: 500rem;
+    width: 350rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
